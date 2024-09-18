@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62493533385",
+    "project_id": "sharedtransportapp",
+    "storage_bucket": "sharedtransportapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62493533385:android:e311c997925475b44cd918",
+        "android_client_info": {
+          "package_name": "com.ezgieren.sharedtransportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62493533385-tcd46smhja4snp51ih4ohp8hqq81j7ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezgieren.sharedtransportapp",
+            "certificate_hash": "81445bd006901e4cc2f90350cc8ee747ae14a58a"
+          }
+        },
+        {
+          "client_id": "62493533385-8mng86gnhui934d15ti58bfd2f53npvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFaDDh9lIDs3g19ky39izKzLfznq0jlMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62493533385-8mng86gnhui934d15ti58bfd2f53npvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
